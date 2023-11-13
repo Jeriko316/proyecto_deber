@@ -16,6 +16,7 @@ public class ProyectoDeberApplication implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		System.out.println("primera ejecucion de la app");
 		System.out.println("segunda ejecucion de la app mismo branch");
+		System.out.println("cambio en la rama2");
 	}
 
 }
